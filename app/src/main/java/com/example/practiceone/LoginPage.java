@@ -16,5 +16,6 @@ public class LoginPage extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_login_page);
 
+
     }
 }
