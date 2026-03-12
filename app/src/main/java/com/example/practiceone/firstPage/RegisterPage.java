@@ -36,6 +36,7 @@ public class RegisterPage extends AppCompatActivity {
             }
         });
 
+
         btnRegister.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

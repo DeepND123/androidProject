@@ -14,14 +14,14 @@
         <activity
             android:name=".firstPage.RegisterPage"
             android:exported="false" />
-        <activity
-            android:name=".firstPage.LoginPage"
-            android:exported="false" />
+<!--        <activity-->
+<!--            android:name=".firstPage.LoginPage"-->
+<!--            android:exported="false" />-->
         <activity
             android:name=".firstPage.firstActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".firstPage.LoginPage"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
